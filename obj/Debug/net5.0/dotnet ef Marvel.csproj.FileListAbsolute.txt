@@ -1,0 +1,61 @@
+C:\dotnet ef Marvel\bin\Debug\net5.0\appsettings.Development.json
+C:\dotnet ef Marvel\bin\Debug\net5.0\appsettings.json
+C:\dotnet ef Marvel\bin\Debug\net5.0\dotnet ef Marvel.exe
+C:\dotnet ef Marvel\bin\Debug\net5.0\dotnet ef Marvel.deps.json
+C:\dotnet ef Marvel\bin\Debug\net5.0\dotnet ef Marvel.runtimeconfig.json
+C:\dotnet ef Marvel\bin\Debug\net5.0\dotnet ef Marvel.runtimeconfig.dev.json
+C:\dotnet ef Marvel\bin\Debug\net5.0\dotnet ef Marvel.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\ref\dotnet ef Marvel.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\dotnet ef Marvel.pdb
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.csproj.AssemblyReference.cache
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.AssemblyInfoInputs.cache
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.AssemblyInfo.cs
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.csproj.CoreCompileInputs.cache
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet ef Marvel\obj\Debug\net5.0\staticwebassets\dotnet ef Marvel.StaticWebAssets.Manifest.cache
+C:\dotnet ef Marvel\obj\Debug\net5.0\staticwebassets\dotnet ef Marvel.StaticWebAssets.xml
+C:\dotnet ef Marvel\obj\Debug\net5.0\scopedcss\bundle\dotnet ef Marvel.styles.css
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.RazorTargetAssemblyInfo.cache
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.dll
+C:\dotnet ef Marvel\obj\Debug\net5.0\ref\dotnet ef Marvel.dll
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.pdb
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.genruntimeconfig.cache
+C:\dotnet ef Marvel\bin\Debug\net5.0\Humanizer.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\dotnet ef Marvel\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet ef Marvel\obj\Debug\net5.0\dotnet ef Marvel.csproj.CopyComplete
